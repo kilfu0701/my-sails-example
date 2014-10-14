@@ -1,0 +1,19 @@
+{
+  "name": "My Sails Example",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.0.3",
+    "jquery-ui": "~1.10.3",
+    "listjs": "~1.0.1",
+    "tag-it": "*",
+    "bootstrap": "~3.1.0",
+    "bootstrap-ui-datepicker": "*"
+  }
+}

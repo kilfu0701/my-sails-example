@@ -1,0 +1,13 @@
+{
+  "name": "bootstrap-ui-datepicker",
+  "homepage": "https://github.com/ikelin/bootstrap-datepicker",
+  "_release": "e3f431cd16",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "e3f431cd162b2f5b4e16514f774784cc2061e23c"
+  },
+  "_source": "git://github.com/ikelin/bootstrap-datepicker.git",
+  "_target": "*",
+  "_originalSource": "bootstrap-ui-datepicker"
+}
